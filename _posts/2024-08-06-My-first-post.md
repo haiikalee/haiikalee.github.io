@@ -1,8 +1,8 @@
 ---
-title: "My first post"
+title: "My First Post"
 date: 2024-08-06
 catagories: [Personal]
-tags: [Personal] [First] [First Post]
+tags:
 ---
 
 # My First Post
